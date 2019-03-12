@@ -57,7 +57,7 @@
   transform: translate3d(0, 0, 0); }
 
 .menu-branding {
-  background: #243665;
+  background: rgba(22, 16, 85, 0.7);
   transform: translate3d(0, 100%, 0);
   transition: all 0.5s ease-out; }
 
@@ -69,7 +69,7 @@
   height: 250px;
   background: url("../dist/img/portrait.jpg");
   border-radius: 50%;
-  border: solid 3px #8bd8bd; }
+  border: solid 4px #8bd8bd; }
 
 .menu .nav-item {
   transform: translate3d(600px, 0, 0);
