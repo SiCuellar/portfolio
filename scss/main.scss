@@ -74,7 +74,8 @@
   background: url("../dist/img/portrait.jpg");
   border-radius: 50%;
   border: solid 4px #8bd8bd;
-//   position: absolute;
+  // z-index: -1; position:relative;
+  // position: absolute;
 }
 .menu .nav-item {
   transform: translate3d(600px, 0, 0);
